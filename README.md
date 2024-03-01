@@ -1,0 +1,1 @@
+In this project, I used Q-learning and DDPG methods to optimize charge and discharge for maximum benefit, and the project is still under continuous optimization. If you have any questions or suggestions, please contact me at 18739558875@163.com.
